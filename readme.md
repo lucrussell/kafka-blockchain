@@ -1,6 +1,6 @@
 ## Build a Blockchain with Apache Kafka
 
-Code for a [tutorial](https://medium.com/@russell.luc/a-blockchain-experiment-with-apache-kafka-97ee0ab6aefc) about building a simple blockchain on Kafka.
+Code for a [tutorial](https://medium.com/@russell.luc/a-blockchain-experiment-with-apache-kafka-97ee0ab6aefc) on building a simple blockchain with Apache Kafka.
 
 Extends [dvf/blockchain](https://github.com/dvf/blockchain) to use Kafka as the message transport.
 
