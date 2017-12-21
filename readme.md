@@ -2,6 +2,8 @@
 
 Code for a [tutorial](link) about building a simple blockchain on Kafka.
 
+Extends [dvf/blockchain](https://github.com/dvf/blockchain) to use Kafka as the message transport.
+
 
 ## Prerequisites
 - Python 3.6+
